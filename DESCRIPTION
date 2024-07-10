@@ -1,0 +1,17 @@
+Package: ReadData
+Type: Package
+Title: Read and Write Different Data Types with One Function
+Version: 1.0
+Author: Simon Gerloff
+Maintainer: Simon Gerloff <simon.gerloff@campus.lmu.de>
+Description: write_data_file allows you to write data to a file in different formats with one function.
+              read_data_file allows you to read data from a file in different formats with one function.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    readr,
+    readxl,
+    openxlsx,
+    jsonlite
+RoxygenNote: 7.2.3
