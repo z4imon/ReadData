@@ -15,3 +15,5 @@ Imports:
     openxlsx,
     jsonlite
 RoxygenNote: 7.2.3
+URL: https://github.com/z4imon/ReadData
+BugReports: https://github.com/z4imon/ReadData/issues
